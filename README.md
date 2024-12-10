@@ -12,5 +12,8 @@ Classes:
 	Which has the threadlocal driver instances for the parallel running capability
 
 Used different type of locators like xpath, id css and tagName
-Added Gitpod file for this Repo 
+Added Gitpod file for this Repo
+
+
+ 
 
