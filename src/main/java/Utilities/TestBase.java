@@ -32,3 +32,4 @@ public class TestBase {
 		return DriverFactory.getInstances().getDriver();
 	}
 }
+

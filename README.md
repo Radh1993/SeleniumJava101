@@ -13,3 +13,4 @@ Classes:
 
 Used different type of locators like xpath, id css and tagName
 Added Gitpod file for this Repo 
+
